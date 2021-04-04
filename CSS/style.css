@@ -1,0 +1,22 @@
+
+header nav {
+    background-color: rgba(255, 174, 52, 0.788);
+}
+
+h1 {
+    background-color: rgba(172, 121, 44, 0.877);
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(247, 242, 183, 0.856);
+}
+
+footer p {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 40px 20px;
+}
